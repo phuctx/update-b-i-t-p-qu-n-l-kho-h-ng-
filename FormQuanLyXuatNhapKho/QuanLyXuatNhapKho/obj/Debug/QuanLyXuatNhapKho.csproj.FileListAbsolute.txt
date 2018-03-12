@@ -40,3 +40,6 @@ D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\Qu
 D:\HK2nam cuoi\github\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\bin\Debug\QuanLyXuatNhapKho.exe.config
 D:\HK2nam cuoi\github\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.exe
 D:\HK2nam cuoi\github\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.pdb
+C:\Users\pham chien\Documents\GitHub\update-b-i-t-p-qu-n-l-kho-h-ng-\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\bin\Debug\QuanLyXuatNhapKho.exe.config
+C:\Users\pham chien\Documents\GitHub\update-b-i-t-p-qu-n-l-kho-h-ng-\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.exe
+C:\Users\pham chien\Documents\GitHub\update-b-i-t-p-qu-n-l-kho-h-ng-\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.pdb
