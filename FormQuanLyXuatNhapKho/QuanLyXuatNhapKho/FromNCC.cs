@@ -162,6 +162,16 @@ namespace QuanLyXuatNhapKho
             txtTenNCC.Focus();
 
         }
+        private void btnTim_click(object sender , EventArgs e)
+        {
+            cmd = new SqlCommand("TimKiem", conn);
+            cmd = CommandType = CommandType.StoredProcedure;
+            cmd.Paramaters.AddWithValue("MaKho", txtTim.Text);
+            da = new SqlDataAdapter(cmd);
+            dt = new DataTable();
+            da.Fill(dt);
+            dgvKhoHang.DataSource = dt;
+        }
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
