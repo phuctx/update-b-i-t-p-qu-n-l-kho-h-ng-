@@ -642,4 +642,5 @@ BEGIN
 	DELETE FROM tbl_ChiTietPhieuXuat Where (Sophieuxuat=@sophieuxuat)
 END
 go
+select *from ChiTietPhieuXuat
 
