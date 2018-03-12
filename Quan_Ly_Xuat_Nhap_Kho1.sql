@@ -141,6 +141,10 @@ execute ThemKhoHang @makho= 'mk003', @tenkho = N'Kho hàng đồ điện tử'
 execute ThemKhoHang @makho= 'mk004', @tenkho = N'Kho hàng vật liệu xây dựng'
 execute ThemKhoHang @makho= 'mk005', @tenkho = N'Kho hàng tổng hợp'
 execute ThemKhoHang @makho= 'mk006', @tenkho = N'Kho hàng tổng hợp'
+execute ThemKhoHang @makho= 'mk007', @tenkho = N'Kho hàng đồ Gốm'
+execute ThemKhoHang @makho= 'mk008', @tenkho = N'Kho hàng đồ gỗ'
+execute ThemKhoHang @makho= 'mk009', @tenkho = N'Kho Thực phẩm'
+execute ThemKhoHang @makho= 'mk010', @tenkho = N'Kho hàng Quần Áo'
 go
 
 
@@ -175,11 +179,16 @@ BEGIN
 	Values (@manv, @tennv, @tuoi, @sdt)
 END
 go
-execute ThemNhanVienKho @manv='nv001', @tennv=N'Trần Văn A',     @tuoi=12, @sdt='1122334455'
+execute ThemNhanVienKho @manv='nv001', @tennv=N'Trần Văn A',     @tuoi=22, @sdt='1122334455'
 execute ThemNhanVienKho @manv='nv002', @tennv=N'NGuyễn Thị B',   @tuoi=13, @sdt='1122334455'
 execute ThemNhanVienKho @manv='nv003', @tennv=N'Hà Tuấn D',      @tuoi=14, @sdt='1122334455'
 execute ThemNhanVienKho @manv='nv004', @tennv=N'Doãn Chí Bình',  @tuoi=15, @sdt='1122334455'
 execute ThemNhanVienKho @manv='nv005', @tennv=N'Triệu Trí Kính', @tuoi=16, @sdt='1122334455'
+execute ThemNhanVienKho @manv='nv006', @tennv=N'Trần Đức Sọ',  @tuoi=30, @sdt='1122334455'
+execute ThemNhanVienKho @manv='nv007', @tennv=N'Phạm Nhữ Chiến', @tuoi= 21, @sdt='0978765439'
+execute ThemNhanVienKho @manv='nv008', @tennv='Nguyễn Văn Phúc', @tuoi= 21, @sdt='0978765439'
+execute ThemNhanVienKho @manv='nv009', @tennv='vũ Lông Khánh', @tuoi= 19 , @sdt='01600446567'
+execute ThemNhanVienKho @manv='nv010', @tennv= 'Lưu Thị Phong', @tuoi=35, @sdt='0946657557'
 
 go
 --4------------stored Insert Nhóm sản phẩm ----------------------------------------------------------------------
@@ -191,11 +200,15 @@ BEGIN
 END
 go
 execute ThemNhonSanPham @manhom='nsp001' , @tennhom=N'Đồ Gia Dụng',@makho= 'mk001'
-execute ThemNhonSanPham @manhom='nsp002' , @tennhom=N'Đồ Mĩ Nghệ', @makho= 'mk001'
-execute ThemNhonSanPham @manhom='nsp003' , @tennhom=N'Sản Phẩm Di Động',@makho= 'mk002'
-execute ThemNhonSanPham @manhom='nsp004' , @tennhom=N'Sản Phẩm Đồ Sứ',@makho= 'mk002'
-execute ThemNhonSanPham @manhom='nsp005' , @tennhom=N'Đồ Tiêu Dùng',@makho= 'mk002'
-execute ThemNhonSanPham @manhom='nsp006' , @tennhom=N'Đồ Tiêu Dùng',@makho= 'mk002'
+execute ThemNhonSanPham @manhom='nsp002' , @tennhom=N'Đồ Mĩ Nghệ', @makho= 'mk002'
+execute ThemNhonSanPham @manhom='nsp003' , @tennhom=N'Sản Phẩm Di Động',@makho= 'mk003'
+execute ThemNhonSanPham @manhom='nsp004' , @tennhom=N'Sản Phẩm Đồ Sứ',@makho= 'mk004'
+execute ThemNhonSanPham @manhom='nsp005' , @tennhom=N'Đồ Tiêu Dùng',@makho= 'mk005'
+execute ThemNhonSanPham @manhom='nsp006' , @tennhom=N'Đồ Tiêu Dùng',@makho= 'mk001'
+execute ThemNhonSanPham @manhom='nsp007' , @tennhom=N'Đồ Điện tử',@makho= 'mk006'
+execute ThemNhonSanPham @manhom='nsp008' , @tennhom=N'Sản Phẩm Đồ Sứ',@makho= 'mk008'
+execute ThemNhonSanPham @manhom='nsp009' , @tennhom=N'Đồ Tiêu Dùng',@makho= 'mk009'
+execute ThemNhonSanPham @manhom='nsp010' , @tennhom=N'Đồ Tiêu Dùng',@makho= 'mk010'
 
 go
 
