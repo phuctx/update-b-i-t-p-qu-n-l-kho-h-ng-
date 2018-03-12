@@ -1,0 +1,42 @@
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\bin\Debug\QuanLyXuatNhapKho.exe.config
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\bin\Debug\QuanLyXuatNhapKho.exe
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\bin\Debug\QuanLyXuatNhapKho.pdb
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_CTPhieuNhap.resources
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_CTPhieuXuat.resources
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_HuongdanSD.resources
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_NhomSanPham.resources
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_NCC.resources
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_KhoHang.resources
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_Main.resources
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_PhieuNhap.resources
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Properties.Resources.resources
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.csproj.GenerateResource.Cache
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.exe
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.pdb
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.csprojResolveAssemblyReference.cache
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_KhachHang.resources
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_NhanVienKho.resources
+F:\3 project\CSDL\QuanLyXuatNhapKho\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_HangHoa.resources
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\bin\Debug\QuanLyXuatNhapKho.exe.config
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.exe
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.pdb
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\bin\Debug\QuanLyXuatNhapKho.exe
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\bin\Debug\QuanLyXuatNhapKho.pdb
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.csprojResolveAssemblyReference.cache
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_CTPhieuNhap.resources
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_CTPhieuXuat.resources
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_HuongdanSD.resources
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_NhanVienKho.resources
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_KhachHang.resources
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_HangHoa.resources
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_NhomSanPham.resources
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_NCC.resources
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_KhoHang.resources
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_Main.resources
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Frm_PhieuNhap.resources
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.Properties.Resources.resources
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.csproj.GenerateResource.Cache
+D:\HK2nam cuoi\web\nhom web\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.FromNCC.resources
+D:\HK2nam cuoi\github\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\bin\Debug\QuanLyXuatNhapKho.exe.config
+D:\HK2nam cuoi\github\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.exe
+D:\HK2nam cuoi\github\FormQuanLyXuatNhapKho\QuanLyXuatNhapKho\obj\Debug\QuanLyXuatNhapKho.pdb
