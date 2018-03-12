@@ -277,7 +277,13 @@ execute ThemKhachHang @makh='kh003', @tennkh=N'Trần Anh Tông',  @diachi=N'Ph�
 execute ThemKhachHang @makh='kh004', @tennkh=N'Trần Đức Nam',   @diachi=N'Phú Thọ', @sdt='012345678'
 execute ThemKhachHang @makh='kh005', @tennkh=N'Trần Quốc Toản', @diachi=N'Phú Thọ', @sdt='012345678'
 execute ThemKhachHang @makh='kh006', @tennkh=N'Trần Quốc Toản', @diachi=N'Phú Thọ', @sdt='012345678'
+execute ThemKhachHang @makh='kh007', @tennkh=N'Nguyễn Thành Hiệp',  @diachi=N'Hà Nội', @sdt='012345678'
+execute ThemKhachHang @makh='kh008', @tennkh=N'Đặng Văn Công',  @diachi=N'Nam Định', @sdt='012345678'
+execute ThemKhachHang @makh='kh009', @tennkh=N'Nguyễn văn Quyền',  @diachi=N'Hà Nam', @sdt='012345678'
+execute ThemKhachHang @makh='kh010', @tennkh=N'Lưu Thị Phong',   @diachi=N'Vĩnh phúc', @sdt='012345678'
 go
+
+
 
 
 
