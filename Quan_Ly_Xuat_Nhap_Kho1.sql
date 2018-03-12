@@ -662,4 +662,13 @@ BEGIN
 END
 go
 select *from ChiTietPhieuXuat
+go
 
+CREATE PROC TimKim(@makh varchar(10) )
+AS
+BEGIN
+	SELECT* FROM tbl_KhachHang  WHERE Makhachhang like @makh
+END
+go
+execute TK @makh='kh001'
+go
