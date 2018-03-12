@@ -13,6 +13,7 @@ namespace QuanLyXuatNhapKho
 {
     public partial class Frm_HangHoa : Form
     {
+        // liên kết dữ liệu lấy dữ liệu từ sơ sở dữ liêu 
         private string Trangthai = "LOAD";
         private String connecttionString = @"Data Source=DESKTOP-R9UI5U6\SQLEXPRESS;Initial Catalog=Quan_Ly_Xuat_Nhap_Kho1;Integrated Security=True";
         private SqlConnection conn;
@@ -315,6 +316,7 @@ namespace QuanLyXuatNhapKho
 
         private void dgvData_SelectionChanged(object sender, EventArgs e)
         {
+            // hiện thị trên datagritview
             if (dgvData.SelectedCells.Count > 0 && dgvData.SelectedRows.Count > 0)
             {
                 int Index = dgvData.CurrentCell.RowIndex;
